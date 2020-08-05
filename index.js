@@ -15,7 +15,7 @@ timeMod.children[0].textContent = 'Time';
 timeMod.children[0].style.display = 'inline-block';
 
 let trigBtn = document.createElement('button');
-trigBtn.textContent = 'Turn on';
+trigBtn.textContent = 'Turn off';
 trigBtn.style.float = 'right';
 trigBtn.style.background = 'rgb(47, 49 ,54)';
 trigBtn.style.color = 'rgb(185, 187, 190)';
