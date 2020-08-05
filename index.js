@@ -5,7 +5,7 @@ let activeNowHeader = nowPlayingScroller.children[0];
 let activityCard = nowPlayingScroller.children[1];
 let divAriaEl = nowPlayingScroller.children[2];
 
-let onOff = false;
+let onOff = true;
 
 let timeMod = document.createElement('div');
 timeMod.style.margin = '5% 0px 0px 0px'
